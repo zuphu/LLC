@@ -1,0 +1,4 @@
+install daitaku
+www.dataiku.com
+slides:
+https://ladieslearningcode.github.io/llc-intro-to-ai-master/slides.html
