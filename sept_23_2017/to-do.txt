@@ -2,3 +2,9 @@ install daitaku
 www.dataiku.com
 slides:
 https://ladieslearningcode.github.io/llc-intro-to-ai-master/slides.html
+exercise 1 dataset:
+http://bit.ly/llc-ai-dataset
+exercise 2 dataset:
+WA_Fn-UseC_-HR-Employee-Attrition.csv
+excercise 3 dataset:
+kaggle.com
