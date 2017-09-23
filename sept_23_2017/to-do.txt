@@ -8,3 +8,5 @@ exercise 2 dataset:
 WA_Fn-UseC_-HR-Employee-Attrition.csv
 excercise 3 dataset:
 kaggle.com
+excercise 4:
+bonus python - refer to slides
